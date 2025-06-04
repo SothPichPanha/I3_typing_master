@@ -14,7 +14,6 @@ This project was developed as part of the I3 midterm and focuses on frontend lay
 - Register Page (Name, Email, Password, Confirm)
 - Responsive Typing Test Interface
 - Basic Layout for Time & WPM Display
-- Start & Reset Buttons
 - Mobile-friendly Design
 
 ---
